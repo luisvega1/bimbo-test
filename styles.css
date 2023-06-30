@@ -1,0 +1,66 @@
+*,html{
+    font-family: sans-serif;
+}
+.text-blue{
+    color: #1E316F;
+    margin: 10px 0!important;
+}
+.text-gray{
+    color: #7E7E7E;
+    margin: 10px 0!important;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.header h1{
+    font-size: 26px;
+    font-weight: normal;
+}
+.header img{
+    max-width: 100%;
+    height: auto;
+}
+.content{
+    margin-top: 20px;
+}
+.content .btn{
+    background-color: #147AFF;
+    color: #fff;
+    text-align: center;
+    border-radius: 50px;
+    padding: 15px 40px;
+    width: 100%;
+    border: none!important;
+}
+.content img{
+    max-width: 100%;
+    height: auto;
+    width: 150px;
+}
+.content .product{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 20px 0;
+}
+.content .product .image-cont{
+    flex: .5;
+}
+.content .product .input-cont{
+    flex: .5;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.content .product .input-cont input{
+    border: none!important;
+    border-bottom: 2px solid #7E7E7E!important;
+    transition: all .4s ease-in-out;
+    width: 60px;
+    text-align: center;
+}
+.content .product .input-cont input:focus{
+    border-bottom: 2px solid #147AFF!important;
+}

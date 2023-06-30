@@ -1,0 +1,27 @@
+[
+  {
+    "id": "0001",
+    "product": "Pan Bimbo Cero Cero",
+    "image": "pan-cero.png"
+  },
+  {
+    "id": "0002",
+    "product": "Little Bites",
+    "image": "litte-bites.png"
+  },
+  {
+    "id": "0003",
+    "product": "Medias Noches",
+    "image": "medias-noches.png"
+  },
+  {
+    "id": "0004",
+    "product": "Pan Tostado",
+    "image": "pan-tostado.png"
+  },
+  {
+    "id": "0005",
+    "product": "Donas",
+    "image": "donas.png"
+  }
+]
